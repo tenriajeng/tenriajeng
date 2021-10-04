@@ -1,16 +1,11 @@
-## Description
-
-this project is used to make it easier to start making express js projects
-
 ### Hi there, I'm Muh. Ilham Tenriajeng - aka [Tenriajeng] 👋
 
-## I'm a Developer and Teacher!
+## I'm a Developer
 
 -   🔭 I’m currently working on a my final year project!
--   🌱 I’m currently learning Fullstack and Machine Learning
+-   🌱 I’m currently learning Fullstack 
 -   👯 I’m looking to collaborate with other content creators
--   🥅 2020 Goals: Contribute more to Open Source projects
--   ⚡ Fun fact: I love to play chess and listen music.
+-   🥅 2021 Goals: Contribute more to Open Source projects 
 
 ### Connect with me:
 
@@ -61,7 +56,7 @@ this project is used to make it easier to start making express js projects
 </code>](https://nodejs.org/en/)
 [<code>
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/) 
+</code>](https://dev.mysql.com/)
 [<code>
 <img alt="markdown" width="26px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
 </code>](https://www.markdownguide.org/)
