@@ -1,21 +1,27 @@
+## Description
+
+this project is used to make it easier to start making express js projects
+
 ### Hi there, I'm Muh. Ilham Tenriajeng - aka [Tenriajeng] 👋
 
 ## I'm a Developer and Teacher!
 
-- 🔭 I’m currently working on a my final year project!
-- 🌱 I’m currently learning Fullstack and Machine Learning
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play chess and listen music.
+-   🔭 I’m currently working on a my final year project!
+-   🌱 I’m currently learning Fullstack and Machine Learning
+-   👯 I’m looking to collaborate with other content creators
+-   🥅 2020 Goals: Contribute more to Open Source projects
+-   ⚡ Fun fact: I love to play chess and listen music.
 
 ### Connect with me:
 
-<img align="left" alt="Sabesan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<a href="www.google.com">
+<img align="left" alt="Sabesan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
+</a>
+
 <img align="left" alt="Sabesan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />
 <img align="left" alt="Sabesan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 <img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-
 <br />
 
 ---
@@ -97,5 +103,5 @@
 </code>](https://www.kernel.org/)
 
 ---
-[![Muh. Ilham Tenriajeng GitHub stats](https://github-readme-stats.vercel.app/api?username=tenriajeng&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/tenriajeng)
 
+[![Muh. Ilham Tenriajeng GitHub stats](https://github-readme-stats.vercel.app/api?username=tenriajeng&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/tenriajeng)
