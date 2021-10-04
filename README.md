@@ -15,16 +15,13 @@ this project is used to make it easier to start making express js projects
 ### Connect with me:
 
 [<code>
-<img align="left" alt="Sabesan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />
+<img alt="Sabesan | Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />
 </code>](https://www.facebook.com/ilham.tenriajeng/)
 [<code>
-<img alt="visual studio code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />
-</code>](https://www.facebook.com/ilham.tenriajeng/)
-[<code>
-<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+<img alt="visual studio code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </code>](https://www.linkedin.com/in/ilham-tenriajeng-a761b81ab/)
 [<code>
-<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img alt="visual studio code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </code>](https://www.instagram.com/mm_trng/)
 <br/>
 
