@@ -20,9 +20,15 @@ this project is used to make it easier to start making express js projects
 [<code>
 <img align="left" alt="Sabesan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />
 </code>](https://code.visualstudio.com/)
+[<code>
 <img align="left" alt="Sabesan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</code>](https://code.visualstudio.com/)
+[<code>
 <img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</code>](https://code.visualstudio.com/)
+[<code>
 <img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</code>](https://code.visualstudio.com/)
 <br />
 
 ---
