@@ -1,5 +1,5 @@
 
-### Hi there, I'm Muh. Ilham Tenriajeng - aka [Tenriajeng] 👋
+### Hi there, I'm [Tenriajeng] 👋
 
 ## I'm a Developer
 
