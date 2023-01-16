@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋 , I'm [Tenriajeng]</h1>
-<h3 align="center">A full stack developer solving problems through code.</h3>
+<h3>Hi there 👋 , I'm [Tenriajeng]</h1>
+<h6 align="center">A full stack developer solving problems through code.</h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilham-tenriajeng&label=Profile%20views&color=0e75b6&style=flat" alt="ilham-tenriajeng" /> </p>
  
