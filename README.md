@@ -11,7 +11,7 @@
 
 👨‍💻 All of my projects are available at [https://portfolio.horizoon.cloud](https://portfolio.horizoon.cloud)
 
-💬 Ask me about **JavaScript,React.js, Node.js,Laravel,PHP,Typescript,Go**
+💬 Ask me about **Javascript,React.js, Node.js, Laravel,PHP, Typescript, Go**
 
 📫 How to reach me **ilhamtenriajeng03@gmail.com**
 
