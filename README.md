@@ -14,5 +14,7 @@
 💬 Ask me about **Javascript,React.js, Node.js, Laravel,PHP, Typescript, Go**
 
 📫 How to reach me **ilhamtenriajeng03@gmail.com**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenriajeng&langs_count=10&layout=compact)](https://github.com/tenriajeng/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tenriajeng&show_icons=false&theme=light)
 
