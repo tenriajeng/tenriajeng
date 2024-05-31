@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning **web development**
 
-👨‍💻 All of my projects are available at [https://portfolio.horizoon.cloud](https://portfolio.horizoon.cloud)
+👨‍💻 All of my projects are available at [sincos.vercel.app](https://sincos.vercel.app)
 
 💬 Ask me about **Javascript,React.js, Node.js, Laravel,PHP, Typescript, Go**
 
