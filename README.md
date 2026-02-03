@@ -92,14 +92,6 @@ const tenriajeng = {
 
 ---
 
-## 🏆 Top Contributed Repositories
-
-<div >
-
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=tenriajeng&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
 ---
 
 ## 🤝 Let's Connect
